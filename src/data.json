@@ -1,15 +1,51 @@
 [
   {
-    "name": "Eleven",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Eleven_%28Stranger_Things%29.jpg/220px-Eleven_%28Stranger_Things%29.jpg"
+    "name": "Reverse",
+    "img": "https://designwrld.com/wp-content/uploads/2016/08/A-New-Minimal-Geometric-Design-Every-Day-By-DAILY-MINIMAL-03-740x740.jpg"
   },
   {
-    "name": "Twelve",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Eleven_%28Stranger_Things%29.jpg/220px-Eleven_%28Stranger_Things%29.jpg"
+    "name": "Triangle",
+    "img": "https://i.pinimg.com/564x/90/41/9b/90419bb218fc00a3bd80f83883c4a9fb.jpg"
   },
   {
-    "name": "Thirteen",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Eleven_%28Stranger_Things%29.jpg/220px-Eleven_%28Stranger_Things%29.jpg"
-  }
+    "name": "Prism",
+    "img": "https://i.pinimg.com/originals/d3/81/28/d38128f902b10ea946727e699e005024.jpg"
+  },
+  {
+    "name": "Mtn",
+    "img": "https://ih0.redbubble.net/image.429478577.4353/flat,750x1000,075,f.u2.jpg"
+  },
+  {
+    "name": "Swirl",
+    "img": "https://cdn.dribbble.com/users/85305/screenshots/3407399/shape-1700403.png"
+  },
+{
+  "name": "Diamond",
+  "img": "https://i.pinimg.com/originals/84/2f/f0/842ff0bebf6f4ef481cf706d752818a9.png"
+},
+{
+  "name": "Crystal",
+  "img": "https://cdn0.iconfinder.com/data/icons/rystals/100/crystal_mineral_shape_figure_logo_symbol-13-512.png"
+},
+{
+  "name": "Gem",
+  "img": "hhttps://cdn0.iconfinder.com/data/icons/rystals/100/crystal_mineral_shape_figure_logo_symbol-75-512.png"
+},
+{
+  "name": "Heart",
+  "img": "https://i.pinimg.com/originals/ed/cb/6d/edcb6def9a29f59db13300eedb367dd4.png"
+},
+{
+  "name": "Forest",
+  "img": "https://i.pinimg.com/originals/dc/4e/d6/dc4ed6350bc6bba578d2fc8bf72e8793.png"
+},
+{
+  "name": "Trifecta",
+  "img": "https://i.pinimg.com/originals/04/96/16/04961649a6e6691ce1efd9a8d4d22fb7.jpg"
+},
+{
+  "name": "Mandala",
+  "img": "https://i.pinimg.com/originals/19/eb/47/19eb47ad1b2b6c64442c3ec29cc15193.jpg"
+}
 
 ]
